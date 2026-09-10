@@ -194,17 +194,13 @@ This adds a security layer to the HR analytics solution and helps prevent unauth
 
 The dashboard provides visibility into several important attrition patterns:
 
-- Overall attrition is **16.1%**, with **237 employees** leaving out of **1,470**.
-- **Sales** shows the highest department-level attrition rate among the departments displayed.
-- The **Under 3k salary band** has a substantially higher attrition rate than the higher salary bands.
-- Younger employee groups show higher attrition compared with older groups.
-- Employees who travel frequently show higher attrition than non-travelling employees.
-- Male employees show a higher attrition rate than female employees in the analyzed dataset.
-- Single employees show higher attrition than married and divorced employees.
+- Overall attrition is 16.1%, with 237 employees leaving out of 1,470.
+- Under 3k salary band has the highest attrition at 28.6% and accounts for nearly 48% of all employee exits.
+- Sales has the highest department-level attrition at 20.6%, while R&D records the highest number of exits at 133.
+- Sales Representatives have the highest role-level attrition at 39.8%, highlighting a major retention concern in frontline Sales roles.
+- Younger employees (18–25) and frequent travellers show significantly higher attrition, at 35.8% and 24.9%, respectively.
 
 These findings can help HR Leadership identify employee segments that may require deeper investigation and targeted retention strategies.
-
-> Note: These are observed associations in the analyzed dataset and should not automatically be interpreted as causal relationships.
 
 ---
 
@@ -245,3 +241,9 @@ Attrition Analysis, Employee Segmentation, KPI Analysis, Demographic Analysis, S
 The project delivers a centralized HR Attrition Analytics solution that enables HR Leadership to move from a general question of **"Why are employees leaving?"** toward identifying specific employee segments and organizational areas associated with higher attrition.
 
 The solution combines **Microsoft Fabric's data platform capabilities with Power BI analytics, DAX and security controls** to provide a maintainable and governed reporting solution.
+
+
+# Contact
+
+Email: ishantkatiyar68@gmail.com  
+LinkedIn: https://www.linkedin.com/in/ishantkatiyar/
